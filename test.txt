@@ -1,6 +1,3 @@
 test
-<<<<<<< HEAD
 coloe repo update
-=======
 first repo update
->>>>>>> e80254fddec40c3726fe8987fef352239cabeab2
